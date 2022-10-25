@@ -18,7 +18,7 @@ Quy Nhon, Vietnam
 ## Travel
 It is better to book the international and domestic portions separately.  There are two main international airports in Vietnam : Hanoi (Noi Bai airport : HAN) and Ho Chi Minh (Tan Son Nhut airport : SGN). After SGN or HAN, you can fly to Quy Nhon by domestic flights or trains.
 
-We will arrang the pickup from airport to hotel, the drive is about 45mins. In order to welcome you and organize your transfer from Quy Nhon airport to the conference hotel, please inform us of your flight number as well as the date and the arrival time in Quy nhon.
+We will arrange the pickup from airport to hotel, the drive is about 45mins. In order to welcome you and organize your transfer from Quy Nhon airport to the conference hotel, please inform us of your flight number as well as the date and the arrival time in Quy nhon.
 
 ## Lecturers
 Nicolas Peretto (Cardiff University, UK) - TBC
@@ -32,7 +32,7 @@ Yoichi Itoh (NHAO, NAOJ, JP) TBC
 Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
 ## Participants
-The program welcome 10 undergraduate students from Cardiff University, UK and 10 students Vietnamese universities. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
+The program welcome 10 undergraduate students from Cardiff University, UK and 10 students from Vietnamese universities. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
 
 ## Logistics
 
