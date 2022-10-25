@@ -130,6 +130,7 @@ Friday night:
 
 ## Contact
 qnguyen@aup.edu
+nicolas.peretto@astro.cf.ac.uk
 
 
 
