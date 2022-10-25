@@ -98,10 +98,8 @@ Friday morning: Rest
 
 Friday afternoon: Presentation
 
-Friday night: Star party
+Friday night: Star party with local astronomy students/club
 
-
- 
 
 
 ## Facilities
