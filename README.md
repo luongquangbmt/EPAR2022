@@ -41,25 +41,33 @@ Thursday:
 ### Weekend Camp: Sky Quality Observation in a remote mountain
 In the weekend, we will travel to a remote mountain with portable telescopes with DIMM software and conduct 1 or 2 nights to characterise the sky quality of the area that we visit.
 
-Friday morning & afternoon: Travel
+Friday morning & afternoon: Travel & Rest
 
 Friday night: Observation
 
-Saturday morning & afternoon: Excursion
+Saturday morning & afternoon: Excursion & Rest
 
 Saturday night: Observation
 
-Sunday morning & afternoon: Excursion
+Sunday morning & afternoon: Excursion & Rest
 
 Sunday night: Observation
 
 
 ### Week 2
 
-1. Observation of the sun 1: Theory 
+Monday morning & afternoon: Travel
+
+Monday night:  Observation
+
+Tuesday morning: Observation of the sun 1 
+
+Tuesday afternoon: Observation of the sun 2
+
 2. Observation of the sun 2
+
 3. Observation of the sun 3
-4. 
+
  
 
 
