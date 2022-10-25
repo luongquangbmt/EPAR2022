@@ -69,7 +69,7 @@ Thursday afternoon: Lecture/Worksgroup
 Thursday night: Observation
 
 
-### Weekend Camp: Sky Quality Observation in a remote mountain
+### Weekend Excursion Camp: Sky Quality Observation in a remote mountain
 In the weekend, we will travel to a remote mountain with portable telescopes with DIMM software and conduct 1 or 2 nights to characterise the sky quality of the area that we visit.
 
 Friday morning & afternoon: Travel & Rest
