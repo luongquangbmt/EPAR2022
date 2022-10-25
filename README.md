@@ -15,8 +15,7 @@ Nguyen Trong Hien (NASA JPL, US) TBC
 
 
 ## Participants
-This year, the program welcome 10 undegraduate students from Cardiff University, UK and 10 students from all parts of Vietnam who are senior undergraduate students or graduate students searching for research experiences. Vietnamese students who are searching for a place to host
-their dissertations are also welcomed. 
+This year, the program welcome 10 undegraduate students from Cardiff University, UK, and 10 students from all parts of Vietnam. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
 
 Each week, scientists were responsible for the scientific theme and student supervision. Students presented their progress in the two Friday’s afternoons. 
 
@@ -29,6 +28,11 @@ Each week, scientists were responsible for the scientific theme and student supe
 In the weekend, we will travel to a remote mountain with portable telescopes with DIMM software and conduct 1 or 2 nights to characterise the sky quality of the area that we visit.
 
 ### Week 2
+
+
+## Contact
+qnguyen@aup.edu
+
 
 
 
