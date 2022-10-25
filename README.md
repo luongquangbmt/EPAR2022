@@ -22,7 +22,14 @@ Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
 ## Facilities
 
+### 60 cm telescope
+![image](https://user-images.githubusercontent.com/58369576/197818735-2b86f839-cc26-4cc6-8204-94609a7fdc50.png)
+
+### Portable telescopes
 ![image](https://user-images.githubusercontent.com/58369576/197818253-5cbb13de-6ef6-41f0-bec2-a18596976b3c.png)
+
+### Coronado 40mm with H-alpha narrow (0,1nm) band filter.
+![image](https://user-images.githubusercontent.com/58369576/197819250-8b9e6bce-9e8e-452e-9cc1-c460b72064d5.png)
 
 
 ## Participants
