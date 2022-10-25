@@ -1,4 +1,4 @@
-# SAGI Observational Astronomy School
+# SAGI-Cardiff Observational Astronomy School
 
 The school is a two-week summer school that brings astronomers and students together to work on observational aspects of astronomy. The program run for 2 weeks, hosted by SAGI, Explora and Cardiff University. The school focuses on practical skills designed for observations, operation, and instrumentation development. Our approach will also demonstrate how astronomy is not only interesting, but also critical for both, technological and scientific development. This approach is partly motivated by frequently asked questions on the need for astronomy, the study of celestial objects. “The subject seems so far removed from our daily life, so why do we study it or why should the government invest in it?”  
 
@@ -124,6 +124,7 @@ Friday night: Star party
 
 ## Contact
 qnguyen@aup.edu
+
 nicolas.peretto@astro.cf.ac.uk
 
 
