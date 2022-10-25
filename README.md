@@ -5,7 +5,9 @@ The EPAR is a two-week summer school that brings astronomers and students togeth
 
 ## Lecturers
 Nicolas Peretto (Cardiff University, UK) - TBC
+
 Nguyen Luong Quang (American University of Paris, FR) - TBC
+
 Nguyen Trong Hien (NASA JPL, US) TBC
 
 
