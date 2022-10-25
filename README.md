@@ -6,7 +6,7 @@ The program will teach astronomy and astrophysics, and the observational project
 
 The topics for the school will include, telescope optics and practical astronomy (how to collimate a telescope, how to focus your instrument? how to point and track your telescope), and observations of fundamental astronomy, such as the measurement of Mars orbit and Keppler’s Law, and the discovery of Planet Neptune thru gravitational perturbation, etc. We also want to try conduct a third topic: the discovery of Andromeda Galaxy and the scale of cosmological distance. Depending on the availability of resources and hardware, we might also try to study Big Bang Cosmology, with measurements of the cosmic microwave background. 
 
-
+Students will also have chance to visit the Science museum and the planetarium inside the campus any time.
 
 ## Lecturers
 Nicolas Peretto (Cardiff University, UK) - TBC
@@ -19,22 +19,8 @@ Yoichi Itoh (NHAO, NAOJ, JP) TBC
 
 Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
-
-## Facilities
-
-### 60 cm telescope
-![image](https://user-images.githubusercontent.com/58369576/197818735-2b86f839-cc26-4cc6-8204-94609a7fdc50.png)
-
-### Portable telescopes
-![image](https://user-images.githubusercontent.com/58369576/197818253-5cbb13de-6ef6-41f0-bec2-a18596976b3c.png)
-
-### Coronado 40mm with H-alpha narrow (0,1nm) band filter.
-![image](https://user-images.githubusercontent.com/58369576/197819250-8b9e6bce-9e8e-452e-9cc1-c460b72064d5.png)
-
-
 ## Participants
 This year, the program welcome 10 undegraduate students from Cardiff University, UK, and 10 students from all parts of Vietnam. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
-
 
 ## Program
 Each week, scientists were responsible for the scientific theme and student supervision. Students presented their progress in the two Friday’s afternoons.
@@ -122,6 +108,23 @@ Friday night:
 
 
  
+
+
+## Facilities
+
+### 60 cm telescope
+![image](https://user-images.githubusercontent.com/58369576/197818735-2b86f839-cc26-4cc6-8204-94609a7fdc50.png)
+
+### Portable telescopes
+![image](https://user-images.githubusercontent.com/58369576/197818253-5cbb13de-6ef6-41f0-bec2-a18596976b3c.png)
+
+### Coronado 40mm with H-alpha narrow (0,1nm) band filter.
+![image](https://user-images.githubusercontent.com/58369576/197819250-8b9e6bce-9e8e-452e-9cc1-c460b72064d5.png)
+
+
+
+
+
 
 
 
