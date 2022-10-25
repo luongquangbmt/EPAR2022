@@ -20,7 +20,7 @@ Yoichi Itoh (NHAO, NAOJ, JP) TBC
 Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
 ## Participants
-This year, the program welcome 10 undegraduate students from Cardiff University, UK, and 10 students from all parts of Vietnam. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
+The program welcome 10 undegraduate students from Cardiff University, UK and 10 students Vietnamese universities. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
 
 ## Program
 Students will attend common lectures, work in groups of five students under our supervision, and presented their progress in the two Friday’s afternoons.
