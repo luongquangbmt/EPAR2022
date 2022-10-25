@@ -22,6 +22,8 @@ Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
 ## Facilities
 
+![image](https://user-images.githubusercontent.com/58369576/197818253-5cbb13de-6ef6-41f0-bec2-a18596976b3c.png)
+
 
 ## Participants
 This year, the program welcome 10 undegraduate students from Cardiff University, UK, and 10 students from all parts of Vietnam. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
@@ -32,9 +34,9 @@ Each week, scientists were responsible for the scientific theme and student supe
 
 ### Week 1
 
-Monday morning: Travel
+Monday morning: Welcome
 
-Monday afternoon: Travel
+Monday afternoon: Introduction of the school and the program
 
 Monday night:  Observation
 
