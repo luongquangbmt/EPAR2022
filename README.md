@@ -6,7 +6,19 @@ The program will teach astronomy and astrophysics, and the observational project
 
 The topics for the school will include, telescope optics and practical astronomy (how to collimate a telescope, how to focus your instrument? how to point and track your telescope), and observations of fundamental astronomy, such as the measurement of Mars orbit and Keppler’s Law, and the discovery of Planet Neptune thru gravitational perturbation, etc. We also want to try conduct a third topic: the discovery of Andromeda Galaxy and the scale of cosmological distance. Depending on the availability of resources and hardware, we might also try to study Big Bang Cosmology, with measurements of the cosmic microwave background. 
 
-Students will also have chance to visit the Science museum and the planetarium inside the campus any time.
+Students will also have chance to visit the Explora Science museum and the planetarium inside the campus any time.
+
+## Date
+Summer 2023
+
+## Place
+https://explorascience.vn/?lang=en
+Quy Nhon, Vietnam
+
+## Travel
+It is better to book the international and domestic portions separately.  There are two main international airports in Vietnam : Hanoi (Noi Bai airport : HAN) and Ho Chi Minh (Tan Son Nhut airport : SGN). After SGN or HAN, you can fly to Quy Nhon by domestic flights or trains.
+
+In order to welcome you and organize your transfert from Quy Nhon airport to the conference hotel, please inform the conference secretariat of your flight number as well as the date and the arrival time in Quy nhon.
 
 ## Lecturers
 Nicolas Peretto (Cardiff University, UK) - TBC
@@ -21,6 +33,11 @@ Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
 ## Participants
 The program welcome 10 undegraduate students from Cardiff University, UK and 10 students Vietnamese universities. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
+
+## Logistics
+
+## Accomodation
+Will be arranged in shared rooms at the institute dormitory or hotels.
 
 ## Program
 Students will attend common lectures, work in groups of five students under our supervision, and presented their progress in the two Friday’s afternoons.
