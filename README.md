@@ -18,7 +18,7 @@ Quy Nhon, Vietnam
 ## Travel
 It is better to book the international and domestic portions separately.  There are two main international airports in Vietnam : Hanoi (Noi Bai airport : HAN) and Ho Chi Minh (Tan Son Nhut airport : SGN). After SGN or HAN, you can fly to Quy Nhon by domestic flights or trains.
 
-In order to welcome you and organize your transfert from Quy Nhon airport to the conference hotel, please inform the conference secretariat of your flight number as well as the date and the arrival time in Quy nhon.
+We will arrang the pickup from airport to hotel, the drive is about 45mins. In order to welcome you and organize your transfer from Quy Nhon airport to the conference hotel, please inform us of your flight number as well as the date and the arrival time in Quy nhon.
 
 ## Lecturers
 Nicolas Peretto (Cardiff University, UK) - TBC
