@@ -32,10 +32,35 @@ Each week, scientists were responsible for the scientific theme and student supe
 
 ### Week 1
 
-Monday:
-Tuesday:
-Wednesday:
-Thursday:
+Monday morning: Travel
+
+Monday afternoon: Travel
+
+Monday night:  Observation
+
+Tuesday morning: Observation of the sun 1 
+
+Tuesday afternoon: Observation of the sun 2
+
+Tueday night: Rest 
+
+Wednesday morning:
+
+Wenesday afternoon:
+
+Wenesday night:
+
+Thursday morning:
+
+Thursday afternoon:
+
+Thursday night:
+
+Friday morning:
+
+Friday afternoon:
+
+Friday night:
 
 
 ### Weekend Camp: Sky Quality Observation in a remote mountain
@@ -56,7 +81,9 @@ Sunday night: Observation
 
 ### Week 2
 
-Monday morning & afternoon: Travel
+Monday morning: Travel
+
+Monday afternoon: Travel
 
 Monday night:  Observation
 
@@ -64,9 +91,26 @@ Tuesday morning: Observation of the sun 1
 
 Tuesday afternoon: Observation of the sun 2
 
-2. Observation of the sun 2
+Tueday night: Rest 
 
-3. Observation of the sun 3
+Wednesday morning:
+
+Wenesday afternoon:
+
+Wenesday night:
+
+Thursday morning:
+
+Thursday afternoon:
+
+Thursday night:
+
+Friday morning:
+
+Friday afternoon:
+
+Friday night:
+
 
  
 
