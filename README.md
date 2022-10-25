@@ -23,7 +23,7 @@ Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 This year, the program welcome 10 undegraduate students from Cardiff University, UK, and 10 students from all parts of Vietnam. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
 
 ## Program
-Each week, scientists were responsible for the scientific theme and student supervision. Students presented their progress in the two Friday’s afternoons.
+Students will attend common lectures, work in groups of five students under our supervision, and presented their progress in the two Friday’s afternoons.
 
 ### Week 1
 
@@ -31,31 +31,25 @@ Monday morning: Welcome
 
 Monday afternoon: Introduction of the school and the program
 
-Monday night:  Observation
+Monday night:  Introduction to the telescope, observation if the weather is permitted
 
-Tuesday morning: Observation of the sun 1 
+Tuesday morning: Rest 
 
-Tuesday afternoon: Observation of the sun 2
+Tuesday afternoon: Lecture
 
-Tueday night: Rest 
+Tueday night: Observation
 
-Wednesday morning:
+Wednesday morning: Rest
 
-Wenesday afternoon:
+Wenesday afternoon: Lecture/Worksgroup
 
-Wenesday night:
+Wenesday night: Observation
 
-Thursday morning:
+Thursday morning: Rest
 
-Thursday afternoon:
+Thursday afternoon: Lecture/Worksgroup
 
-Thursday night:
-
-Friday morning:
-
-Friday afternoon:
-
-Friday night:
+Thursday night: Observation
 
 
 ### Weekend Camp: Sky Quality Observation in a remote mountain
@@ -88,23 +82,23 @@ Tuesday afternoon: Observation of the sun 2
 
 Tueday night: Rest 
 
-Wednesday morning:
+Wednesday morning: Rest
 
-Wenesday afternoon:
+Wenesday afternoon: Lecture/Worksgroup
 
-Wenesday night:
+Wenesday night: Group Observation
 
-Thursday morning:
+Thursday morning: Rest 
 
-Thursday afternoon:
+Thursday afternoon: Lecture/Worksgroup
 
-Thursday night:
+Thursday night: Group observation
 
-Friday morning:
+Friday morning: Rest
 
-Friday afternoon:
+Friday afternoon: Presentation
 
-Friday night:
+Friday night: Star party
 
 
  
