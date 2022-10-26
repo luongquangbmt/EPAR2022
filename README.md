@@ -42,6 +42,9 @@ Will be arranged in shared rooms at the institute dormitory or hotels.
 ## Program
 Students will attend common lectures, work in groups of five students under our supervision, and presented their progress in the two Friday’s afternoons.
 
+
+Friday,  Saturday or Sunday: Arrival in Quy Nhon
+
 ### Week 1
 
 Monday morning: Welcome
@@ -116,6 +119,84 @@ Friday morning: Rest
 Friday afternoon: Presentation
 
 Friday night: Star party with local astronomy students/club
+
+Saturday or Sunday: Arrival in Quy Nhon
+
+
+09:00 - 09:15	Welcome and practical information 
+09:15 - 10:45	Lecture: Telescope optics
+11:15 - 12:45	Lecture: Observing techniques - photometry 
+14:00 - 16:00	Site visit
+16:00 - 17:00	Introduction of the students, teachers, and projects
+17:00 - 19:00	First group meeting
+
+19:00 -	Dinner
+Tuesday 
+11:00 - 13:00	Group work: planning observations
+13:00 - 14:30	Lunch
+14:30 - 16:00	Lecture: Observing techniques - spectroscopy 
+16:00 - 18:30	Group work: planning observations
+18:30 -	Dinner
+19:30 -	1st observing night
+Wednesday 
+13:00 - 14:30	Lunch
+14:30 - 16:00	Group work: planning observations
+16:00 - 17:30	Lecture: Astronomical detectors 
+17:30 - 18:30	Group work: planning observations
+18:30 -	Dinner
+19:30 -	2nd observing night
+Thursday
+13:00 - 14:30	Lunch
+14:30 - 15:30	Group work: planning observations
+15:30 - 17:00	Lecture: Introduction to Adaptive Optics 
+17:00 - 18:30	Group work: planning observations
+18:30 -	Dinner
+19:30 -	3rd observing night
+Friday 
+13:00 - 14:30	Lunch
+14:30 - 18:30	Group work: reducing and analysing data
+18:30 - 19:30	Dinner
+19:30 - 20:30	Talk: Dark and quiet sky protection 
+Saturday 
+11:00 - 13:00	Group work: reducing and analysing data
+13:00 - 14:30	Lunch
+14:30 - 19:00	Group work: reducing and analysing data
+19:00 -	Dinner
+Sunday 
+Free day
+Monday 
+09:00 - 13:00	Group work: reducing and analysing data
+13:00 - 14:30	Lunch
+14:30 - 16:00	Lecture: Introduction to radio astronomy 
+16:00 - 19:00	Group work: reducing and analysing data
+19:00 -	Dinner
+Tuesday 
+09:00 - 11:30	Group work: reducing and analysing data
+11:30 - 13:00	Discussion: Proposal writing 
+13:00 - 14:30	Lunch
+14:30 - 19:00	Group work: reducing and analysing data
+19:00 -	Dinner
+Wednesday 
+09:00 - 11:30	Group work: reducing and analysing data
+11:30 - 13:00	Discussion: Careers in science 
+13:00 - 14:30	Lunch
+14:30 - 19:00	Group work: reducing and analysing data
+19:00 -	Dinner
+Thursday 
+09:00 - 11:30	Group work: presentation preparation
+11:30 - 13:00	Introduction to optical/infrared interferometry 
+13:00 - 14:30	Lunch
+14:30 - 19:00	Group work: presentation preparation
+19:00 -	Dinner
+Friday 
+09:00 - 09:30	Group presentation 1
+09:30 - 10:00	Group presentation 2
+10:00 - 10:30	Group presentation 3
+10:30 - 11:00	Break
+11:00 - 11:30	Group presentation 4
+11:30 - 12:00	Group presentation 5
+12:00 - 13:00	Lunch
+13:30	Leaving the observatory
 
 
 
