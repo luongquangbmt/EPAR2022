@@ -9,7 +9,7 @@ The topics for the school will include, telescope optics and practical astronomy
 Students will also have chance to visit the Explora Science museum and the planetarium inside the campus any time.
 
 ## Date
-Summer 2023
+10-23 July 2023
 
 ## Place
 https://explorascience.vn/?lang=en
@@ -31,6 +31,8 @@ Yoichi Itoh (NHAO, NAOJ, JP) TBC
 
 Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
+Le Quang Thuy (Explora)
+
 ## Participants
 The program welcome 10 students from Cardiff University and 10 students Vietnamese universities. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
 
@@ -45,13 +47,17 @@ Students will attend common lectures, work in groups of five students under our 
 
 Friday,  Saturday or Sunday: Arrival in Quy Nhon
 
-### Week 1
+FriWeek 1
 
-Monday morning: Welcome
+Monday, 10th July: 
 
-Monday afternoon: Introduction of the school and the program
+Morning: Welcome
 
-Monday night:  Introduction to the telescope, observation if the weather is permitted
+Afternoon: Introduction of the school and the program
+
+Night:  Introduction to the telescope, observation if the weather is permitted
+
+Tuesday, 11th July: 
 
 Tuesday morning: Rest 
 
@@ -59,11 +65,15 @@ Tuesday afternoon: Lecture
 
 Tueday night: Observation
 
+Wednesday, 12th July: 
+
 Wednesday morning: Rest
 
 Wenesday afternoon: Lecture/Worksgroup
 
 Wenesday night: Observation
+
+Thursday, 13th July: 
 
 Thursday morning: Rest
 
@@ -75,13 +85,19 @@ Thursday night: Observation
 ### Weekend Excursion Camp: Sky Quality Observation in a remote mountain
 In the weekend, we will travel to a remote mountain with portable telescopes with DIMM software and conduct 1 or 2 nights to characterise the sky quality of the area that we visit.
 
+Friday, 14th July: 
+
 Friday morning & afternoon: Travel & Rest
 
 Friday night: Observation
 
+Saturday, 15th July:
+
 Saturday morning & afternoon: Excursion & Rest
 
 Saturday night: Observation
+
+Sunday, 16th July:
 
 Sunday morning & afternoon: Excursion & Rest
 
@@ -90,11 +106,16 @@ Sunday night: Observation
 
 ### Week 2
 
+Monday, 17th July:
+
+
 Monday morning: Travel
 
 Monday afternoon: Travel
 
 Monday night:  Observation
+
+Tuesday, 18th July:
 
 Tuesday morning: Observation of the sun 1 
 
@@ -102,17 +123,24 @@ Tuesday afternoon: Observation of the sun 2
 
 Tueday night: Rest 
 
+Wednesday, 19th July:
+
 Wednesday morning: Rest
 
 Wenesday afternoon: Lecture/Worksgroup
 
 Wenesday night: Group Observation
 
+Thursday, 20th July:
+
 Thursday morning: Rest 
 
 Thursday afternoon: Lecture/Worksgroup
 
 Thursday night: Group observation
+
+
+Friday, 21th July:
 
 Friday morning: Rest
 
@@ -189,14 +217,7 @@ Thursday
 14:30 - 19:00	Group work: presentation preparation
 19:00 -	Dinner
 Friday 
-09:00 - 09:30	Group presentation 1
-09:30 - 10:00	Group presentation 2
-10:00 - 10:30	Group presentation 3
-10:30 - 11:00	Break
-11:00 - 11:30	Group presentation 4
-11:30 - 12:00	Group presentation 5
-12:00 - 13:00	Lunch
-13:30	Leaving the observatory
+
 
 
 
