@@ -33,6 +33,8 @@ Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
 
 Le Quang Thuy (Explora)
 
+## Local Organizing Committee
+
 ## Participants
 The program welcome 10 students from Cardiff University and 10 students Vietnamese universities. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizer first. 
 
