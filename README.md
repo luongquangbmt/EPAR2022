@@ -21,17 +21,19 @@ It is better to book the international and domestic portions separately.  There 
 We will arrange the pickup from airport to hotel, the drive is about 45mins. In order to welcome you and organize your transfer from Quy Nhon airport to the conference hotel, please inform us of your flight number as well as the date and the arrival time in Quy nhon.
 
 ## Lecturers
-Nicolas Peretto (Cardiff University, UK) - TBC
+Nicolas Peretto (Cardiff University, United Kingdom) - TBC
 
-Nguyen Luong Quang (American University of Paris, FR) - TBC
+Nguyen Luong Quang (American University of Paris, France)
 
-Nguyen Trong Hien (NASA JPL, US) TBC
+Nguyen Trong Hien (NASA JPL, United States) TBC
 
-Yoichi Itoh (NHAO, NAOJ, JP) TBC
+Yoichi Itoh (NHAO, NAOJ, Japan) TBC
 
-Kazuhito Dobashi (Tokyo Gakugei University, JP) TBC
+Kazuhito Dobashi (Tokyo Gakugei University, Japan) TBC
 
-Le Quang Thuy (Explora)
+Le Quang Thuy (Explora, Vietnam)
+
+Ly Thi Kim Cuc (QNU, Korea)
 
 ## Local Organizing Committee
 
