@@ -157,71 +157,134 @@ Friday night: Star party with local astronomy students/club
 Saturday or Sunday: Arrival in Quy Nhon
 
 
-09:00 - 09:15	Welcome and practical information 
+09:00 - 09:15	Welcome and practical information
+
 09:15 - 10:45	Lecture: Telescope optics
+
 11:15 - 12:45	Lecture: Observing techniques - photometry 
+
 14:00 - 16:00	Site visit
+
 16:00 - 17:00	Introduction of the students, teachers, and projects
+
 17:00 - 19:00	First group meeting
 
 19:00 -	Dinner
+
 Tuesday 
+
 11:00 - 13:00	Group work: planning observations
+
 13:00 - 14:30	Lunch
+
 14:30 - 16:00	Lecture: Observing techniques - spectroscopy 
+
 16:00 - 18:30	Group work: planning observations
+
 18:30 -	Dinner
+
 19:30 -	1st observing night
+
 Wednesday 
+
 13:00 - 14:30	Lunch
+
 14:30 - 16:00	Group work: planning observations
+
 16:00 - 17:30	Lecture: Astronomical detectors 
+
 17:30 - 18:30	Group work: planning observations
+
 18:30 -	Dinner
+
 19:30 -	2nd observing night
+
 Thursday
+
 13:00 - 14:30	Lunch
+
 14:30 - 15:30	Group work: planning observations
+
 15:30 - 17:00	Lecture: Introduction to Adaptive Optics 
+
 17:00 - 18:30	Group work: planning observations
+
 18:30 -	Dinner
+
 19:30 -	3rd observing night
+
 Friday 
+
 13:00 - 14:30	Lunch
+
 14:30 - 18:30	Group work: reducing and analysing data
+
 18:30 - 19:30	Dinner
+
 19:30 - 20:30	Talk: Dark and quiet sky protection 
+
 Saturday 
+
 11:00 - 13:00	Group work: reducing and analysing data
+
 13:00 - 14:30	Lunch
+
 14:30 - 19:00	Group work: reducing and analysing data
+
 19:00 -	Dinner
+
 Sunday 
+
 Free day
+
 Monday 
+
 09:00 - 13:00	Group work: reducing and analysing data
+
 13:00 - 14:30	Lunch
+
 14:30 - 16:00	Lecture: Introduction to radio astronomy 
+
 16:00 - 19:00	Group work: reducing and analysing data
+
 19:00 -	Dinner
+
 Tuesday 
+
 09:00 - 11:30	Group work: reducing and analysing data
+
 11:30 - 13:00	Discussion: Proposal writing 
+
 13:00 - 14:30	Lunch
+
 14:30 - 19:00	Group work: reducing and analysing data
+
 19:00 -	Dinner
+
 Wednesday 
+
 09:00 - 11:30	Group work: reducing and analysing data
+
 11:30 - 13:00	Discussion: Careers in science 
+
 13:00 - 14:30	Lunch
+
 14:30 - 19:00	Group work: reducing and analysing data
+
 19:00 -	Dinner
+
 Thursday 
+
 09:00 - 11:30	Group work: presentation preparation
+
 11:30 - 13:00	Introduction to optical/infrared interferometry 
+
 13:00 - 14:30	Lunch
+
 14:30 - 19:00	Group work: presentation preparation
+
 19:00 -	Dinner
+
 Friday 
 
 
