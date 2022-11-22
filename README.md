@@ -7,7 +7,7 @@ The program will teach astronomy and astrophysics, and the observational project
 
 The topics for the school will include, telescope optics and practical astronomy (how to collimate a telescope, how to focus your instrument? how to point and track your telescope), and observations of fundamental astronomy, such as the measurement of Mars orbit and Keppler’s Law, and the discovery of Planet Neptune thru gravitational perturbation, etc. We also want to try conduct other topics such as: variability and transist observations, the discovery of Andromeda Galaxy and the scale of cosmological distance. Depending on the availability of resources and hardware, we might also try to study Big Bang Cosmology, with measurements of the cosmic microwave background. 
 
-Students will also have chance to visit the Explora Science museum and the planetarium inside the campus any time.
+Students will also have chances to visit the Explora Science museum and the planetarium inside the campus at any time. 
 
 ## Date
 10-23 July 2023
