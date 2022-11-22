@@ -1,6 +1,7 @@
 # SAGI-Cardiff Observational Astronomy School
 
-The school is a two-week summer school that brings astronomers and students together to work on observational aspects of astronomy. The program run for 2 weeks, hosted by SAGI, Explora and Cardiff University. The school focuses on practical skills designed for observations, operation, and instrumentation development. Our approach will also demonstrate how astronomy is not only interesting, but also critical for both, technological and scientific development. This approach is partly motivated by frequently asked questions on the need for astronomy, the study of celestial objects. “The subject seems so far removed from our daily life, so why do we study it or why should the government invest in it?”  
+
+The school is a two-week summer school that brings astronomers and students together to work on observational aspects of astronomy. The program run for 2 weeks, hosted by SAGI and the QuyNhon Observatory, Explora. The school focuses on practical skills designed for observations, operation, and instrumentation development. Our approach will also demonstrate how astronomy is not only interesting, but also critical for both, technological and scientific development. This approach is partly motivated by frequently asked questions on the need for astronomy, the study of celestial objects. “The subject seems so far removed from our daily life, so why do we study it or why should the government invest in it?”  
 
 The program will teach astronomy and astrophysics, and the observational projects we undertake will focus on the fundamental questions, both scientifically and experimentally. The students will learn how to operate telescopes, how to go about designing and testing scientific instruments. The student will learn to conduct their observations the way professional astronomers do. They will experience the frustration of operating the telescope, the joy of getting it to work – to align the telescope, to focus and to point and track the entire instrument – the disappointment due to bad weather, the excitement of capturing the celestial images, the confusion of the data, and the power of analytical thinking and data analysis.
 
@@ -21,9 +22,10 @@ It is better to book the international and domestic portions separately.  There 
 We will arrange the pickup from airport to hotel, the drive is about 45mins. In order to welcome you and organize your transfer from Quy Nhon airport to the conference hotel, please inform us of your flight number as well as the date and the arrival time in Quy nhon.
 
 ## Lecturers
-Nicolas Peretto (Cardiff University, United Kingdom) - TBC
 
 Nguyen Luong Quang (American University of Paris, France)
+
+Nicolas Peretto (Cardiff University, United Kingdom) - TBC
 
 Nguyen Trong Hien (NASA JPL, United States) TBC
 
@@ -31,9 +33,9 @@ Yoichi Itoh (NHAO, NAOJ, Japan) TBC
 
 Kazuhito Dobashi (Tokyo Gakugei University, Japan) TBC
 
-Le Quang Thuy (Explora, Vietnam)
+Le Quang Thuy (Explora, Vietnam) TBC
 
-Ly Thi Kim Cuc (QNU, Korea)
+Ly Thi Kim Cuc (QNU, Korea) TBC
 
 ## Local Organizing Committee
 
