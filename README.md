@@ -39,6 +39,13 @@ Ly Thi Kim Cuc (QNU, Korea) TBC
 
 ## Local Organizing Committee
 
+Nguyen Huu Ha (Quy Nhon Observatory, VN)
+
+Le Quang Thuy (Quy Nhon Observatory, VN)
+
+Staff ...
+
+
 ## Participants/Registration
 The program welcome 10 students from Cardiff University, 10 students from Vietnamese universities, and students from other countries. Vietnamese students who are searching for a place to host their thesis are also welcomed and are encouraged to discuss with the organizers/lecturers first. 
 
